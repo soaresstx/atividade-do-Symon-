@@ -1,0 +1,6 @@
+const preco = 49.9;
+let quantidade = 3;
+
+const total = preco * quantidade;
+
+console.log(`Total: R$ ${total}`);

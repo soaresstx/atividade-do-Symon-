@@ -1,0 +1,6 @@
+// Resposta:
+// let é usado quando o valor de uma variável pode ser alterado durante o programa.
+// Por exemplo, podemos usar let para um contador que aumenta ou diminui.
+//
+// const é usado quando o valor não deve ser reatribuído depois de declarado.
+// Por exemplo, podemos usar const para armazenar o valor de PI.
